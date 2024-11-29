@@ -1,1 +1,208 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Portfólio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Bem Vindo</a></li>
+							<li><a href="#one">Projetos</a></li>
+							<li><a href="#two">Tecnologias</a></li>
+							<li><a href="#three">Contato</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<a href="" target="_blank"><h1>Augusto Rodolpho Dalmás</h1></a>
+							<p>Desenvolvedor Júnior Back-End | 6° Semestre Engenharia da Computação.</p>
+							<ul class="actions">
+								<li><a href="#one" class="button scrolly">Leia Mais</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="#one" class="image"><img src="images/pic01.png" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Registro/Login</h2>
+									<p>sistema de registro e login de usuarios em banco de dados.</p>
+									<ul class="actions">
+										<li><a href="https://github.com/Augustodalmas/Sistema-Login" class="button">Ler Mais</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#one" class="image"><img src="images/pic02.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Dalmas Multimarcas</h2>
+									<p>Projeto está sendo desenvolvido em Django, atualmente com CRUD de carros e um register/login de users.</p>
+									<ul class="actions">
+										<li><a href="https://github.com/Augustodalmas/Django" class="button">Ler Mais</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#one" class="image"><img src="images/pic03.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>API de Filmes</h2>
+									<p>Projeto para aprender sobre APIs.</p>
+									<ul class="actions">
+										<li><a href="https://github.com/Augustodalmas/Flix-API" class="button">Ler Mais</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#one" class="image"><img src="images/pic04.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>StreamLit</h2>
+									<p>Projeto feito em StreamLit para aprender a tecnologia e consumir a API feita.</p>
+									<ul class="actions">
+										<li><a href="https://github.com/Augustodalmas/Streamlit" class="button">Ler Mais</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#one" class="image"><img src="images/pic05.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Blog</h2>
+									<p>Projeto com Django para práticar.</p>
+									<ul class="actions">
+										<li><a href="https://github.com/Augustodalmas/Blog" class="button">Ler Mais</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					<!--Para adicionar novos projetos, adicionar um section aqui-->
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>Tecnologias</h2>
+							<p>Vou falar um pouco sobre as tecnologias que tenho conhecimento academico, utilizando meus cursos e faculdade.</p>
+							<div class="features">
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>HTML</h3>
+									<p>Conhecimento básico em HTML.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>CSS</h3>
+									<p>Conhecimento básico em CSS.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Python</h3>
+									<p>Conhecimento em Python.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Django</h3>
+									<p>Conhecimento em Django.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>SQL</h3>
+									<p>Conhecimento básico em SQL.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>GitHub & Git</h3>
+									<p>Conhecimento básico sobre Git e Github.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Streamlit</h3>
+									<p>Conhecimento básico sobre Streamlit.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Playwright & Selenium</h3>
+									<p>Conhecimento básico sobre Playwright & Selenium.</p>
+								</section>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>Contato</h2>
+							<div class="split style1">
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Endereço</h3>
+											<span>Rua José Mazzochi, 272<br />
+											Esplanada, RS 95095-122<br />
+											BRA</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<a href="#">augustodalmas132@gmail.com</a>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<span>(54) 55 98409-6156</span>
+										</li>
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+												<li><a href="https://github.com/Augustodalmas" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="https://www.linkedin.com/in/augustordalmas/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; 2024 Augusto Rodolpho Dalmás</li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
